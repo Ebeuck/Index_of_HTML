@@ -3,3 +3,4 @@
 ### an excellent book full of examples and tips on learning both 
 ### (see: https://www.amazon.com/HTML-CSS-Design-Build-Websites/dp/1118008189)
 ### (see: http://www.htmlandcssbook.com)
+#### Under construction: also going to include examples of my own political science site, once get up and running
